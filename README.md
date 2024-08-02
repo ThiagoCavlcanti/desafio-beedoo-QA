@@ -62,4 +62,22 @@ Para criação e definição das User Stories foi feita uma análise dos objetiv
 
 * O usuário deve ter a opção de excluir um curso específico da lista. 
 
-* O curso deve ser removido e não deve mais aparecer na lista de cursos. 
+* O curso deve ser removido e não deve mais aparecer na lista de cursos.
+
+
+### 4. Desempenho e segurança 
+
+**Como** um administrador,
+
+**Quero** que minha aplicação seja segura para os usuários e seja constante, 
+
+**Para** os usuários tenham uma boa experiência com a aplicação.
+
+
+#### Critérios de Aceite: 
+
+* A aplicação deve ter proteção contra vulnerabilidades mais comuns. 
+
+* A aplicação deve ter conexões seguras. 
+
+* A aplicação deve ter disponibilidade. 
