@@ -1,6 +1,13 @@
 <h1 align="center"> BeeDoo QA Challenge </h1>
 
  
+Links para as planilhas:
+* [Casos de teste](https://docs.google.com/spreadsheets/d/1bZNaC0aoVx8Ru3oCBKALZkIuKCC0h8bJiNXBvAVg58Y/edit?usp=sharing)
+* [Relatório de bugs e sugestões de melhoria](https://docs.google.com/spreadsheets/d/1MKVjzYnsaU2u6vQcSXH1jVjd5gqu4owTFnIrcKL2HgM/edit?usp=sharing)
+* [Evidências de testes](https://drive.google.com/drive/folders/1RaV2dsR9Rl3r8_h96ysy_2CgQ-4_4sVT?usp=drive_link)
+* [Status Report](https://docs.google.com/spreadsheets/d/1GQAAUiEzaHC11-Wf7QKd-p4_jwCEqAkmw_LII9B1K2w/edit?usp=sharing)
+
+
 
 Para criação e definição das User Stories foi feita uma análise dos objetivos e funcionalidade da aplicação que foram informadas e que foram encontradas por meio de exploração.  
 
